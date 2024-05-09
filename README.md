@@ -1,1 +1,1 @@
-# scrape_c21global
+## In this project, house for-sale data has been scraped with prices between $200K to $1M, and sizes between 50 to 300 m<sup>2</sup> in the US from the <a href= "https://www.century21global.com">Century 21</a> website.
